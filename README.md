@@ -1,0 +1,1 @@
+This C++ Text Editor is a simple yet functional text editing program that allows users to perform various text manipulation tasks through a user-friendly command-line interface. It provides features such as inserting, undoing, redoing, displaying text, clearing text, saving to and loading from files, and searching for specific text within the document.
